@@ -1,1 +1,8 @@
-hell
+body {
+    background-color:gold ;
+}
+h1 {
+    color: hotpink;
+    cursor: e-resize;
+    size: 8em;
+}
