@@ -1,8 +1,6 @@
-body {
-    background-color:gold ;
+body{
+    background-color: goldenrod;
 }
-h1 {
-    color: hotpink;
-    cursor: e-resize;
-    size: 8em;
+h1{
+    color: rgb(228, 20, 20);
 }
